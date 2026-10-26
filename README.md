@@ -15,3 +15,4 @@ A software project for organizing academic tasks.
 - Git
 - GitHub
 - Google Antigravity
+correcting the mistakes
